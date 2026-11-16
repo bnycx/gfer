@@ -29,8 +29,8 @@ Imports:
     gsheet
 Depends: R (>= 2.10)
 RoxygenNote: 7.1.2
-URL: https://yuanchao-xu.github.io/gfer/
-BugReports: https://github.com/Yuanchao-Xu/gfer/issues
+URL: https://bnycx.github.io/gfer/
+BugReports: https://github.com/bnycx/gfer/issues
 Repository: CRAN
 Suggests: knitr,
     rmarkdown
