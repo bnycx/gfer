@@ -17,10 +17,10 @@ Development version from github, for experienced users and those who are interes
 ```R
 install.packages("devtools")
 # You can ignore the line above, if you have already installed devtools
-devtools::install_github("Yuanchao-Xu/gfer")
+devtools::install_github("bnycx/gfer")
 ```
 
-**Official Website is [https://yuanchao-xu.github.io/gfer](https://yuanchao-xu.github.io/gfer/)**
+**Official Website is [https://bnycx.github.io/gfer](https://bnycx.github.io/gfer/)**
 
 gfer is an R package, designed for green finance and environmental risk research. Focuses on data collecting and analyzing in green finance and environmental 
   risk research and analysis. Main function includes environmental data collecting from 
@@ -29,7 +29,7 @@ gfer is an R package, designed for green finance and environmental risk research
 
 **If you feel gfer is of a little help, please cite it as following:**
 
-Yuanchao Xu (2021). gfer: Green Finance and Environmental Risk. R package version 0.1.6.
+gfer (2021): Green Finance and Environmental Risk. R package version 0.1.6.
   https://CRAN.R-project.org/package=gfer
 
 
